@@ -22,7 +22,7 @@ Git clone git@github.com:BLAIR-MUNENE/WK2-Code-Challenge.git
 
 # Live Link
 
-[Git]()
+[Git](https://github.com/BLAIR-MUNENE/WK2-Code-Challenge)
 
 ## Technologies used
 
